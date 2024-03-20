@@ -1,4 +1,5 @@
-﻿namespace First_Home_Task
+using System;
+namespace 1_Home_Task_(.NET)
 {
     internal class Program
     {
